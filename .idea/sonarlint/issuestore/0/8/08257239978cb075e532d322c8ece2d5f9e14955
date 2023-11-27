@@ -1,0 +1,7 @@
+
+{python:S116"XRename this field "numberOfStudents" to match the regular expression ^[_a-z][_a-z0-9]*$.(Œø¹‚úÿÿÿÿ8ÁÉõ­¿1
+spython:S117"URename this parameter "newSchool" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œø÷–8ÁÉõ­¿1
+qpython:S100"SRename method "setOnlineSchool" to match the regular expression ^[a-z_][a-z0-9_]*$.(Œø÷–8ÁÉõ­¿1
+ypython:S117"VRename this parameter "studentStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÜÑ“´şÿÿÿÿ8ÁÉõ­¿1
+=python:S125"Remove this commented out code.(“”ì8ô÷­¿1
+Bpython:S125!"Remove this commented out code.(¢ŸÏİûÿÿÿÿ8ÁÉõ­¿1

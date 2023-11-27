@@ -1,0 +1,5 @@
+
+~python:S117"[Rename this local variable "finalGrade" to match the regular expression ^[_a-z][a-z0-9_]*$.(°³¹ïùÿÿÿÿ8Ï­•«¿1
+wpython:S117"YRename this parameter "studentGrades" to match the regular expression ^[_a-z][a-z0-9_]*$.(»Âˆ¦8Ï­•«¿1
+zpython:S117"\Rename this local variable "sumofGrades" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ¨ÑÙ8Ï­•«¿1
+tpython:S1542"URename function "calculateGrades" to match the regular expression ^[a-z_][a-z0-9_]*$.(»Âˆ¦8Ï­•«¿1
